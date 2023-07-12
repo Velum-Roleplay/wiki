@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Velum # Change this to your site name
+site_description: "Velum est un roleplay d'urban fantaisie qui se déroule en France, en 2030, dans une ambiance humoristique et fun !"
+site_url: https://Velum-Roleplay.github.io/wiki # Change this to your site URL
 
 theme:
     name: 'material'
@@ -124,12 +124,12 @@ extra_css:
 extra:
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
-  generate_graph: true #generate the graph of the site
+  generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
   no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
   blog_list:
     pagination: true #enable pagination
-    pagination_message: true #display the message "Showing x posts out of y"
+    pagination_message: false #display the message "Showing x posts out of y"
     pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
     no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
   hooks:
