@@ -1,10 +1,10 @@
-/* UNCOMMENT THIS LINE TO ADD ANY BACKGROUND IN THE HEADER
-DONT FORGET TO EDIT THE URL
+
 .md-header,
 .md-nav--primary .md-nav__title[for="__drawer"] {
- background: var(--md-primary-fg-color) url(background_image_link_here&auto=format&fit=crop&w=1074&q=80) left center/cover no-repeat;
+ background: var(--md-primary-fg-color) url(https://images.unsplash.com/photo-1455192285714-bfa3b47c4849?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=1074&q=80) left center/cover no-repeat;
 }
-*/
+
+
 
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
