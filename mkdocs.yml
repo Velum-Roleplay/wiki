@@ -8,7 +8,7 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Ubuntu
+        text: Karla
         code: Ubuntu Mono
     language: fr
     palette:
@@ -110,7 +110,7 @@ hooks:
   - overrides/hooks/on_env.py
   - overrides/hooks/on_files.py
 extra_javascript:
-  - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
+  - assets/js/dev.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
@@ -120,7 +120,7 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
-  SEO: assets/meta/SEO.png
+  SEO: assets/meta/SEO.jpg
   comments: false #disable comments globally
   generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored

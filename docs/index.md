@@ -9,6 +9,9 @@ description: "Le monde est en réalité deux fois plus grand, mais séparé en d
 path: docs
 name: index
 title: ""
+hide:
+  - navigation
+  - toc
 ---
 _L'action se déroule en 2030, la technologie est légèrement plus avancée, et les objets techno-magiques sont courants dans le monde éthéré_
 
