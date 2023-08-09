@@ -61,10 +61,10 @@ De fait, les caractères spéciaux utilisables sont les suivants :
 
 Plutôt que d'utiliser le nom complet de la statistique, une image est utilisée dans l'embed.
 Chaque image correspond à une statistique. Ainsi :
-- __Force__: ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/images/force.png?raw=true)
-- __Constitution__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/images/constitution.png?raw=true)
-- __Agilité__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/images/agilite.png?raw=true)
-- __Intelligence__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/images/intelligence.png?raw=true)
-- __Psychologie__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/images/psychologie.png?raw=true)
-- __Perception__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/images/perception.png?raw=true)
+- __Force__: ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/assets/images/statistiques/force.png?raw=true)
+- __Constitution__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/assets/images/statistiques/constitution.png?raw=true)
+- __Agilité__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/assets/images/statistiques/agilite.png?raw=true)
+- __Intelligence__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/assets/images/statistiques/intelligence.png?raw=true)
+- __Psychologie__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/assets/images/statistiques/psychologie.png?raw=true)
+- __Perception__ : ![24](https://github.com/Lisandra-dev/Velum-bot/blob/master/assets/images/statistiques/perception.png?raw=true)
 - __Neutre__ : 😐 (dans le cas où aucune statistique est utilisée)
